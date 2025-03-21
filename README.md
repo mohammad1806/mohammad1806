@@ -40,12 +40,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 </div>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammad1806&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad1806&theme=radical" alt="GitHub Streak" />
-</div>
-
 ## 🏆 Featured Projects
 
 ### 📱 [Set Card Game](https://github.com/mohammad1806/SPL/tree/main/SPL2/SetCardGame)
