@@ -51,6 +51,9 @@ Developed a server-client-based social network using binary communication protoc
 ### 📋 [Kanban Board](https://github.com/mohammad1806/introSE)
 MVVM-based Kanban board application with 3-tier architecture that streamlines project management and enhances team collaboration through intuitive task tracking.
 
+### 🛒 WorkShop
+A full-stack web marketplace where customers can open their own stores, sell products, and also buy from others. Built with **Spring Boot**, leveraging **REST APIs** and HTTP requests for communication, and backed by **Azure SQL** for data storage.
+
 ## 📫 Let's Connect
 Feel free to reach out if you're looking for a developer, have a question, or just want to connect!
 
